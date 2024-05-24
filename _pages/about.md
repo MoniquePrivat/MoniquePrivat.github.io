@@ -2,11 +2,11 @@
 layout: about
 title: Om mig
 permalink: /
-subtitle: Meget glad, meget kreativ. 
+subtitle: Det er godt vejr
 
 profile:
   align: right
-  image: mig_med_hjelm.jpg
+  image: Sim.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Nr.: 22706564</p>
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hej alle der har lyst til at følge med. Mit navn er Monique Kvistholm og jeg er 21 år gammel, bor på Nørrebro. I min fritid er jeg super kreativ. Her kan i finde alle mine kreative projekter. Håber i har lyst til at følge med.
+Hej Simon. Hvad laver du? Se jeg har fået min hjemmeside op og køre!! SÅÅÅ fedt! Har også bare taget mig hele dagen og ugen faktiske også. Håber du hygger med læsning. Glæder mig til at ses senere. Kys ahhahahhhaha
 
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
